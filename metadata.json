@@ -1,0 +1,8 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "A beginner-friendly expense tracker with complete CRUD operations, designed for interview preparation and personal finance management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
